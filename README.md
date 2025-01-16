@@ -1,4 +1,11 @@
 
+<h1 align="center">Hi 👋, I'm Ehsan Narmani</h1>
+<h3 align="center">A young programmer interested in creating android applications</h3>
+
+- 🔭 I’m currently working on [Sitano Website Maker](https://sitano.net)
+- 💬 Ask me about **Android Development / Back-End Laravel**
+- 📫 How to reach me **ehsan.enk.narmani@gmail.com**
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kotlin_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsannarmani) 
 
